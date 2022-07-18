@@ -258,6 +258,18 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Opp_ID__c</fullName>
+        <externalId>false</externalId>
+        <label>Opp ID</label>
+        <precision>5</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>OrderNumber__c</fullName>
         <externalId>false</externalId>
         <label>Order Number</label>
